@@ -181,3 +181,9 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+
+
+#Sitecore sites
+SitecoreMvc/SitecoreWayWebsite_Sitecore
+SitecoreMvc/WebApp_Sitecore
